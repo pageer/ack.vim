@@ -1,3 +1,14 @@
+# Fork notes
+
+Since the main [mileszs/ack.vim](https://github.com/mileszs/ack.vim) repo
+seems to be abandoned at this point, I created this fork as a convenient
+place to pull various pending merge requests that I want for my personal use.
+This repo merges the following PRs:
+
+* [Fix support for using ripgrep with vim-dispatch #276](https://github.com/mileszs/ack.vim/pull/276) by [obreitwi](https://github.com/obreitwi)
+* [Fallback to matching filename with grepformat. #258](https://github.com/mileszs/ack.vim/pull/258) by [DArtagan](https://github.com/DArtagan)
+* [Add ability to search all open buffers #273](https://github.com/mileszs/ack.vim/pull/273) by [versi786](https://github.com/versi786)
+
 # ack.vim
 
 Run your favorite search tool from Vim, with an enhanced results list.
